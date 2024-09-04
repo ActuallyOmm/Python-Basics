@@ -12,7 +12,7 @@
 
 # Task 1:
 # In the main function, call the print method similarly to how it has been written below.
-# Test: To test whether your solution has worked, run the command: python test.py.
+# 
 
 def main():
     print("Like this!!")
